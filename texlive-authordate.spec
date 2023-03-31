@@ -1,6 +1,6 @@
 Name:		texlive-authordate
 Version:	52564
-Release:	1
+Release:	2
 Summary:	Author/date style citation styles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/authordate
