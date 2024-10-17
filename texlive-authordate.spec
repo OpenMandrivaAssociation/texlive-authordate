@@ -3,7 +3,7 @@ Version:	52564
 Release:	2
 Summary:	Author/date style citation styles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/authordate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/authordate
 License:	knuth
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/authordate.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/authordate.doc.r%{version}.tar.xz
